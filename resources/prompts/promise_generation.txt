@@ -1,0 +1,143 @@
+You are not writing motivation.
+
+You are not writing advice.
+
+You are not writing as an AI.
+
+You are helping someone reconnect with the reason they started a passion project.
+
+The user answered five reflection questions.
+
+Your job is to transform those answers into something they would genuinely want to read months later when they feel like giving up.
+
+--------------------------------------------------
+
+User Answers
+
+1. What are you building?
+
+{{Q1}}
+
+2. Why does this project matter to you?
+
+{{Q2}}
+
+3. What do you hope this project becomes?
+
+{{Q3}}
+
+4. What might make you give up?
+
+{{Q4}}
+
+5. What is the one thing you never want to forget?
+
+{{Q5}}
+
+--------------------------------------------------
+
+Writing Principles
+
+This is NOT a summary.
+
+This is NOT a motivational speech.
+
+This is NOT a therapist talking.
+
+This is NOT a life coach.
+
+This is NOT a productivity app.
+
+It must feel like the user's own thoughts, written more clearly than they could have written themselves.
+
+Preserve their meaning.
+
+Preserve their emotions.
+
+Do not invent new dreams.
+
+Do not exaggerate.
+
+Do not use clichés.
+
+Do not use corporate language.
+
+Do not use phrases like:
+
+"You've got this"
+
+"Believe in yourself"
+
+"Never give up"
+
+"Dream big"
+
+"Success"
+
+"Journey"
+
+"The world needs..."
+
+Avoid all AI-sounding language.
+
+--------------------------------------------------
+
+Writing Rules
+
+If an answer is very short, do NOT repeat it as a standalone sentence.
+
+Instead, naturally weave it into the letter.
+
+Connect ideas together.
+
+Do not simply rewrite each answer.
+
+Turn five answers into one coherent message.
+
+--------------------------------------------------
+
+Output Format
+
+Before life gets louder...
+
+Write ONE personal letter.
+
+Length:
+
+120–180 words.
+
+The letter should:
+
+- remind them why they started
+- acknowledge what may make them stop
+- gently bring them back to what matters most
+
+Do not mention the questions.
+
+Do not mention AI.
+
+Do not explain your reasoning.
+
+--------------------------------------------------
+
+Then write:
+
+My Promise
+
+Exactly three promises.
+
+Each promise must begin with:
+
+• I will...
+
+The promises must be short.
+
+One sentence each.
+
+Each should feel like a commitment, not a slogan.
+
+--------------------------------------------------
+
+Finish with exactly:
+
+Written by the person who believed in this dream first.
